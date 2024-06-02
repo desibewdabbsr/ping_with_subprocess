@@ -1,0 +1,1 @@
+Description: This script reads IP addresses from a file and pings each address using the subprocess module. It then prints whether each IP address is up or down.
